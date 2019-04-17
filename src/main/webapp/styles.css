@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+h1 {
+	color: #374eeb;
+}
+
+#pic {
+	max-height: 150px;
+}
+
+table {
+	width: 75%;
+	border: 2px solid black;
+}
+
+thead, tbody {
+	height: 100px;
+	width: 100%;
+	text-align: center;
+}
+
+td {
+	border: 1px solid black;
+	width: 75px;
+}
