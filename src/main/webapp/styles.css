@@ -1,7 +1,9 @@
 @charset "UTF-8";
 
 h1 {
-	color: #374eeb;
+	color: #244289;
+	font-family: Arial Narrow, sans-serif;
+	font-size: 50px;
 }
 
 #pic {
