@@ -11,13 +11,9 @@
 <body>
 
 	<div>
-
-
-
-		<img id="pic"
+		<img id="pic2"
 			src="https://www.underconsideration.com/brandnew/archives/nba_logo_wordmark.png" />
 		<h1>GREATS</h1>
-
 
 		<table>
 

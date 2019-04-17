@@ -4,10 +4,16 @@ h1 {
 	color: #244289;
 	font-family: Arial Narrow, sans-serif;
 	font-size: 50px;
+	max-height: 70px;
+	margin: 10px;
 }
 
 #pic {
 	max-height: 150px;
+}
+
+#pic2 {
+	max-height: 100px;
 }
 
 table {
